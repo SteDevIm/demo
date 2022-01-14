@@ -3,12 +3,5 @@
     { "id": 1, "name": "Stefania", "surname": "Zinno" },
     { "id": 2, "name": "Giovanni", "surname": "Monaco" },
     { "id": 3, "name": "Gianluca", "surname": "Orpello" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
