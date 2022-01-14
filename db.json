@@ -1,8 +1,8 @@
 {
   "mentor": [
-    { "id": 1, "name": "Stefania", "surname": "Verdi", "age": "18", "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum"},
-    { "id": 2, "name": "Giovanni", "surname": "Rossi" , "age": "18", "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum"},
-    { "id": 3, "name": "Gianluca", "surname": "Giallo", "age": "18", "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum" }
+    { "id": 1, "name": "Stefania", "surname": "Verdi", "age": 18, "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum"},
+    { "id": 2, "name": "Giovanni", "surname": "Rossi" , "age": 18, "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum"},
+    { "id": 3, "name": "Gianluca", "surname": "Giallo", "age": 18, "imageName": "stefania_zinno", "shortBio": "Lorem Ipsum" }
   ]
 }
 
